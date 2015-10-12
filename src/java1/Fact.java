@@ -6,6 +6,7 @@ public class Fact {
 		// TODO Auto-generated method stub
 		
 		System.out.println("I am using GitHub");
+		System.out.println("I am using GitHub2");
 	}
 
 }
